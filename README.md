@@ -17,3 +17,5 @@ detection algorithm RG-YOLOv11n and proposes an experiment to evaluate multiple
 mainstream object detection algorithms with the object tracking model Deep SORT to
 find a model that can perform object detection with high speed and low resource usage
 under a certain accuracy.
+
+The URL of video: https://youtu.be/mOAv37wtY1M
