@@ -19,3 +19,4 @@ find a model that can perform object detection with high speed and low resource 
 under a certain accuracy.
 
 The URL of video: https://youtu.be/mOAv37wtY1M
+Source: https://www.kaggle.com/datasets/pkdarabi/vehicle-detection-imagedataset?resource=download
